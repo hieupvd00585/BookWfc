@@ -1,0 +1,7 @@
+D:\Asp.Net\BookWFC\BookWFC\bin\BookWFC.dll.config
+D:\Asp.Net\BookWFC\BookWFC\bin\BookWFC.dll
+D:\Asp.Net\BookWFC\BookWFC\bin\BookWFC.pdb
+D:\Asp.Net\BookWFC\BookWFC\obj\Debug\BookWFC.csproj.CoreCompileInputs.cache
+D:\Asp.Net\BookWFC\BookWFC\obj\Debug\BookWFC.dll
+D:\Asp.Net\BookWFC\BookWFC\obj\Debug\BookWFC.pdb
+D:\Asp.Net\BookWFC\BookWFC\obj\Debug\BookWFC.csprojAssemblyReference.cache
